@@ -15,8 +15,8 @@
   <a href="https://ai.dfbng.com">
     <img src="https://img.shields.io/badge/🤖_DFBNG_AI-ai.dfbng.com-06B6D4?style=for-the-badge">
   </a>
-  <a href="https://github.com/DFBNG">
-    <img src="https://img.shields.io/badge/GitHub-DFBNG-181717?style=for-the-badge&logo=github">
+  <a href="https://github.com/DFBNG-SOFTWARE">
+    <img src="https://img.shields.io/badge/GitHub-DFBNG-SOFTWARE-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -84,9 +84,9 @@ Misyonumuz yalnızca yazılım geliştirmek değil; işletmeleri geleceğe taş�
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DFBNG&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DFBNG-SOFTWARE&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFBNG&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFBNG-SOFTWARE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,7 +143,7 @@ while (true)
 |----------|-------|
 | 🌍 Resmî Web Sitesi | https://dfbng.com |
 | 🤖 DFBNG AI | https://ai.dfbng.com |
-| 💻 GitHub | https://github.com/DFBNG |
+| 💻 GitHub | https://github.com/DFBNG-SOFTWARE |
 
 </div>
 
