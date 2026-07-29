@@ -2,6 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,70:2563EB,100:06B6D4&height=300&section=header&text=AKADİR%20YAZILIM&fontSize=85&fontColor=FFFFFF&animation=twinkling&fontAlignY=42"/>
 
+<br><br>
+
+<img src="./akadir-logo.png" width="180" alt="AKADİR YAZILIM Logo">
+
+<br><br>
 
 <br><br>
 
