@@ -1,24 +1,14 @@
 <div align="center">
 
-<img src="./akadir-logo.png" width="180" height="180">
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,70:2563EB,100:06B6D4&height=300&section=header&text=AKADİR%20YAZILIM&fontSize=85&fontColor=FFFFFF&animation=twinkling&fontAlignY=42"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Modern+Software+Solutions;Artificial+Intelligence;Digital+Systems;Future+Technology"/>
 
 <br><br>
 
-<a href="https://akadiryazilim.gt.tc">
-<img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge&logo=googlechrome">
-</a>
+<img src="./akadir-logo.png" width="180">
 
-<a href="https://github.com/AKADIR-YAZILIM">
-<img src="https://img.shields.io/badge/GitHub-AKADİR_YAZILIM-111827?style=for-the-badge&logo=github">
-</a>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Modern+Software+Solutions;Artificial+Intelligence;Digital+Systems;Future+Technology"/>
 
 </div>
 
