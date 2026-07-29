@@ -4,11 +4,17 @@
 
 <br><br>
 
-<img src="./akadir-logo.png" width="180">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Modern+Software+Solutions;Artificial+Intelligence;Digital+Systems;Future+Technology"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Modern+Software+Solutions;Artificial+Intelligence;Digital+Systems;Future+Technology"/>
+<a href="https://akadiryazilim.gt.tc">
+<img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge&logo=googlechrome">
+</a>
+
+<a href="https://github.com/AKADIR-YAZILIM">
+<img src="https://img.shields.io/badge/GitHub-AKADİR_YAZILIM-111827?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
