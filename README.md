@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,70:2563EB,100:06B6D4&height=300&section=header&text=AKADİR%20YAZILIM&fontSize=85&fontColor=FFFFFF&animation=twinkling&fontAlignY=42"/>
 
-<br><br>
-
-<img src="./akadir-logo.png" width="50" alt="AKADİR YAZILIM Logo">
-
-<br><br>
-
 
 <a href="https://akadiryazilim.gt.tc">
 <img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge&logo=googlechrome">
