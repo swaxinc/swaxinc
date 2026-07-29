@@ -4,16 +4,17 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Modern+Software+Solutions;Artificial+Intelligence;Digital+Systems;Future+Technology"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Web+Yazılım+Geliştirme;Yapay+Zekâ+Sistemleri;Özel+Yazılım+Çözümleri;Geleceğin+Teknolojileri"/>
 
 <br><br>
 
 <a href="https://akadiryazilim.gt.tc">
-<img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/🌐_Web-akadiryazilim.gt.tc-0F172A?style=for-the-badge">
 </a>
 
 <a href="https://github.com/AKADIR-YAZILIM">
-<img src="https://img.shields.io/badge/GitHub-AKADİR_YAZILIM-111827?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-AKADİR_YAZILIM-2563EB?style=for-the-badge&logo=github">
 </a>
 
 </div>
