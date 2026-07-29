@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./akadir-logo.png" width="180" alt="AKADİR YAZILIM Logo">
+<img src="./akadir-logo.png" width="110" alt="AKADİR YAZILIM Logo">
 
 <br><br>
 
