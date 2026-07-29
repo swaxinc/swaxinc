@@ -1,54 +1,78 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,70:2563EB,100:06B6D4&height=300&section=header&text=AKADİR%20YAZILIM&fontSize=85&fontColor=FFFFFF&animation=twinkling&fontAlignY=42"/>`{=html}
+<div align="center">
 
-`<br>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,70:2563EB,100:06B6D4&height=300&section=header&text=AKADİR%20YAZILIM&fontSize=85&fontColor=FFFFFF&animation=twinkling&fontAlignY=42"/>
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Software+Development;Artificial+Intelligence;Digital+Solutions;Future+Technology"/>`{=html}
+<br>
 
-`<br>`{=html}`<br>`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AKADİR+YAZILIM;Modern+Software+Solutions;Artificial+Intelligence;Digital+Systems;Future+Technology"/>
 
-`<a href="https://akadiryazilim.gt.tc">`{=html}
-`<img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge">`{=html}
-`</a>`{=html}
+<br><br>
 
-`<a href="https://github.com/AKADIR-YAZILIM">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-AKADİR_YAZILIM-111827?style=for-the-badge&logo=github">`{=html}
-`</a>`{=html}
-:::
+<a href="https://akadiryazilim.gt.tc">
+<img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge&logo=googlechrome">
+</a>
 
-------------------------------------------------------------------------
+<a href="https://github.com/AKADIR-YAZILIM">
+<img src="https://img.shields.io/badge/GitHub-AKADİR_YAZILIM-111827?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
 
 # ⚡ AKADİR YAZILIM
 
-## 🚀 Modern Yazılım Teknolojileri
+<div align="center">
 
-AKADİR YAZILIM; web uygulamaları, özel yazılımlar, yapay zekâ sistemleri
-ve dijital çözümler geliştiren teknoloji markasıdır.
+### 🚀 Modern Yazılım • Yapay Zekâ • Dijital Çözümler
 
-------------------------------------------------------------------------
+**Geleceğin teknolojilerini güçlü kodlarla geliştiriyoruz.**
 
-# 🛠️ Hizmetler
+</div>
 
--   🌐 Web Yazılım
--   📱 Uygulama Geliştirme
--   🤖 Yapay Zekâ Sistemleri
--   ☁️ Cloud Çözümleri
--   🎮 Oyun Geliştirme
--   ⚙️ Otomasyon Sistemleri
+---
 
-------------------------------------------------------------------------
+## 🏢 Hakkımızda
 
-# 💻 Teknolojiler
+AKADİR YAZILIM; web uygulamaları, özel yazılım sistemleri, yapay zekâ çözümleri ve dijital platformlar geliştiren teknoloji markasıdır.
 
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs,react,nodejs,mysql,firebase,docker,linux,git,vscode&perline=8">`{=html}
-:::
+Amacımız güvenilir, hızlı ve modern yazılımlar üretmektir.
 
-------------------------------------------------------------------------
+---
 
-# 🧠 AKADİR ENGINE
+## 🚀 Hizmet Alanlarımız
 
-```{=html}
+| Alan | Çözümler |
+|---|---|
+| 🌐 Web | Web siteleri, paneller, e-ticaret |
+| 🤖 Yapay Zekâ | AI sistemleri ve otomasyon |
+| 📱 Uygulama | Mobil ve masaüstü uygulamalar |
+| ☁️ Cloud | Altyapı ve servis çözümleri |
+| 🎮 Oyun | Oyun geliştirme projeleri |
+| ⚙️ Yazılım | Özel sistem geliştirme |
+
+---
+
+## 💻 Teknoloji Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,mongodb,firebase,docker,linux&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/>
+
+</div>
+
+---
+
+## 🧠 AKADİR ENGINE
+
 <pre>
 while(true)
 {
@@ -58,34 +82,53 @@ while(true)
     BuildFuture();
 }
 </pre>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AKADIR-YAZILIM&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKADIR-YAZILIM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Geliştirme Sürecimiz
+
+```
+💡 Fikir
+ ↓
+🎨 Tasarım
+ ↓
+💻 Kodlama
+ ↓
+🧪 Test
+ ↓
+🚀 Yayın
 ```
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub İstatistikleri
+## 🌟 Değerlerimiz
 
-::: {align="center"}
-`<img height="180" src="https://github-readme-stats.vercel.app/api?username=AKADIR-YAZILIM&show_icons=true&theme=tokyonight&hide_border=true">`{=html}
+- 🚀 Yenilikçilik
+- 🔒 Güvenlik
+- ⚡ Performans
+- 🎨 Modern Tasarım
+- 💡 Sürekli Gelişim
 
-`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKADIR-YAZILIM&layout=compact&theme=tokyonight&hide_border=true">`{=html}
-:::
+---
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🌟 Değerlerimiz
-
-🚀 Yenilikçilik\
-🔒 Güvenlik\
-⚡ Performans\
-🎨 Modern Tasarım\
-💡 Sürekli Gelişim
-
-------------------------------------------------------------------------
-
-::: {align="center"}
 # ⚡ AKADİR YAZILIM
 
 ### Build • Create • Innovate
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:020617&height=120&section=footer">`{=html}
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:020617&height=130&section=footer"/>
+
+</div>
