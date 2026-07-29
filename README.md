@@ -2,11 +2,9 @@
 
 <img src="./akadir-logo.png" width="180" height="180">
 
-<br><br>
+<br>
 
-# ⚡ AKADİR YAZILIM
-
-### Modern Software • AI • Digital Solutions
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,70:2563EB,100:06B6D4&height=300&section=header&text=AKADİR%20YAZILIM&fontSize=85&fontColor=FFFFFF&animation=twinkling&fontAlignY=42"/>
 
 <br>
 
