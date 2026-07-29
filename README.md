@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./akadir-logo.png" width="180" height="180">
-
-<br>
 
 </div>
 
