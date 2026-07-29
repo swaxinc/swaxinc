@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=220&section=header&text=DFBNG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563EB&height=220&section=header&text=AKADİR%20YAZILIM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# ⚡ DFBNG — SOFTWARE
+# ⚡ AKADİR YAZILIM
 
-### Modern Yazılım • Yapay Zekâ • Bulut Teknolojileri • Siber Güvenlik
+### Modern Yazılım • Yapay Zekâ • Web Teknolojileri • Dijital Çözümler
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Modern+Software+Solutions;Artificial+Intelligence;Cloud+Infrastructure;Cyber+Security;Build.+Innovate.+Scale."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Modern+Software+Solutions;Artificial+Intelligence;Web+Applications;Cloud+Technologies;Build.+Create.+Innovate."/>
 
 <p>
-  <a href="https://dfbng.com">
-    <img src="https://img.shields.io/badge/🌐_Website-dfbng.com-0F172A?style=for-the-badge">
+  <a href="https://akadiryazilim.gt.tc">
+    <img src="https://img.shields.io/badge/🌐_Website-akadiryazilim.gt.tc-020617?style=for-the-badge">
   </a>
-  <a href="https://ai.dfbng.com">
-    <img src="https://img.shields.io/badge/🤖_DFBNG_AI-ai.dfbng.com-06B6D4?style=for-the-badge">
-  </a>
-  <a href="https://github.com/DFBNG-SOFTWARE">
-    <img src="https://img.shields.io/badge/GitHub-DFBNG-SOFTWARE-181717?style=for-the-badge&logo=github">
+
+  <a href="https://github.com/AKADIR-YAZILIM">
+    <img src="https://img.shields.io/badge/GitHub-AKADIR_YAZILIM-2563EB?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -26,34 +24,34 @@
 
 # 🚀 Hakkımızda
 
-**DFBNG - SOFTWARE**, modern teknolojiler kullanarak yenilikçi, güvenilir ve ölçeklenebilir yazılım çözümleri geliştiren bağımsız bir yazılım şirketidir.
+**AKADİR YAZILIM**, modern teknolojiler kullanarak web, yazılım ve dijital sistemler geliştiren yenilikçi bir yazılım markasıdır.
 
-Misyonumuz yalnızca yazılım geliştirmek değil; işletmeleri geleceğe taşıyacak teknolojiler üretmektir.
+Amacımız kullanıcıların ve işletmelerin ihtiyaçlarına uygun hızlı, güvenilir ve gelişmiş yazılım çözümleri üretmektir.
 
 ---
 
 # ⚙️ Hizmetlerimiz
 
 ```text
-🌐 Web Uygulamaları
+🌐 Web Site Tasarımı
 
-📱 Mobil Uygulamalar
+💻 Özel Yazılım Geliştirme
 
-💻 Masaüstü Yazılımları
-
-☁️ Cloud Çözümleri
+📱 Mobil Uygulama Çözümleri
 
 🤖 Yapay Zekâ Sistemleri
 
-🧠 Makine Öğrenmesi
+☁️ Bulut Sistemleri
 
-🔐 Siber Güvenlik
+🔌 API Geliştirme
 
-⚡ API & Backend Servisleri
+🛒 E-Ticaret Sistemleri
 
-📊 Veri Analizi
+📊 Yönetim Panelleri
 
-🛠️ Otomasyon Sistemleri
+⚡ Otomasyon Sistemleri
+
+🎮 Oyun Yazılımı ve Geliştirme
 ```
 
 ---
@@ -62,19 +60,19 @@ Misyonumuz yalnızca yazılım geliştirmek değil; işletmeleri geleceğe taş�
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,python,js,ts,go,rust"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,spring,fastapi"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,django"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,bash,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
 
 </p>
 
@@ -84,19 +82,19 @@ Misyonumuz yalnızca yazılım geliştirmek değil; işletmeleri geleceğe taş�
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DFBNG-SOFTWARE&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AKADIR-YAZILIM&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFBNG-SOFTWARE&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKADIR-YAZILIM&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Geliştirme Süreci
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=DFBNG&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AKADIR-YAZILIM&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -104,34 +102,34 @@ Misyonumuz yalnızca yazılım geliştirmek değil; işletmeleri geleceğe taş�
 
 # 🎯 Vizyonumuz
 
-> Geleceğin dijital dünyasını şekillendiren teknolojiler geliştirmek.
+> Teknolojiyi kullanarak geleceğin dijital dünyasına yön veren çözümler geliştirmek.
 
 ---
 
 # 💎 Değerlerimiz
 
-- 🚀 Yenilikçilik
-- 🔒 Güvenlik
-- ⚡ Performans
-- 📈 Ölçeklenebilirlik
-- 🤝 Güvenilirlik
-- 💡 Sürekli Gelişim
+- 🚀 Yenilikçi Yaklaşım
+- 🔒 Güvenli Yazılım
+- ⚡ Yüksek Performans
+- 📈 Sürekli Gelişim
+- 🤝 Kullanıcı Odaklılık
+- 💡 Teknolojik Üretim
 
 ---
 
-# 🌌 Felsefemiz
+# 🌌 Geliştirici Felsefemiz
 
-```cpp
+```javascript
 while (true)
 {
     Learn();
-    Build();
-    Innovate();
+    Code();
+    Create();
     Improve();
 }
 ```
 
-> **Kod yazmak bir meslek değil, geleceği inşa etmektir.**
+> **Kod sadece yazılmaz, geleceği oluşturur.**
 
 ---
 
@@ -141,9 +139,8 @@ while (true)
 
 | Platform | Adres |
 |----------|-------|
-| 🌍 Resmî Web Sitesi | https://dfbng.com |
-| 🤖 DFBNG AI | https://ai.dfbng.com |
-| 💻 GitHub | https://github.com/DFBNG-SOFTWARE |
+| 🌍 Web Sitesi | https://akadiryazilim.gt.tc |
+| 💻 GitHub | https://github.com/AKADIR-YAZILIM |
 
 </div>
 
@@ -151,10 +148,10 @@ while (true)
 
 <div align="center">
 
-## ⚡ Build. Innovate. Scale.
+## ⚡ Build. Create. Innovate.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:020617&height=120&section=footer"/>
 
-![](https://komarev.com/ghpvc/?username=DFBNG&style=for-the-badge&color=06B6D4)
+![](https://komarev.com/ghpvc/?username=AKADIR-YAZILIM&style=for-the-badge&color=2563EB)
 
 </div>
