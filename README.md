@@ -4,11 +4,10 @@
 
 <br><br>
 
-<img src="./akadir-logo.png" width="110" alt="AKADİR YAZILIM Logo">
+<img src="./akadir-logo.png" width="90" alt="AKADİR YAZILIM Logo">
 
 <br><br>
 
-<br><br>
 
 <a href="https://akadiryazilim.gt.tc">
 <img src="https://img.shields.io/badge/Website-akadiryazilim.gt.tc-2563EB?style=for-the-badge&logo=googlechrome">
