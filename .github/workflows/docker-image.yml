@@ -1,9 +1,7 @@
 name: Docker Desktop with ngrok
 
 on:
-  workflow_dispatch: # Actions sekmesinden elle başlatabilmek için
-  schedule:
-    - cron: '0 */6 * * *' # 6 saatte bir otomatik çalışması için
+  workflow_dispatch:
 
 jobs:
   run-docker:
@@ -16,9 +14,8 @@ jobs:
       - name: Docker Image Build Et
         run: docker build -t my-desktop .
 
-      - name: Docker Container'ı Başlat
-        run: |
-          docker run -d -p 6080:6080 --name desktop-app my-desktop
+      - name: Docker Container Başlat
+        run: docker run -d -p 6080:6080 --name desktop-app my-desktop
 
       - name: ngrok İndir ve Kur
         run: |
@@ -26,9 +23,9 @@ jobs:
           echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
           sudo apt update && sudo apt install ngrok -y
 
-      - name: ngrok Başlat ve Bağlantı Adresini Göster
+      - name: ngrok Başlat
         env:
           NGROK_AUTHTOKEN: ${{ secrets.NGROK_AUTHTOKEN }}
         run: |
           ngrok config add-authtoken $NGROK_AUTHTOKEN
-          ngrok http 6080 --log=stdout
+          ngrok http 6080
